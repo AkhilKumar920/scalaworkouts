@@ -1,4 +1,4 @@
-package hackerearth
+package hackerearth_01
 
 object toggle_string extends App {
   val input=scala.io.StdIn.readLine()

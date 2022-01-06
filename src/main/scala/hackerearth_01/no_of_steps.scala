@@ -1,4 +1,4 @@
-package hackerearth
+package hackerearth_01
 
 object no_of_steps extends App {
   val n=scala.io.StdIn.readInt()

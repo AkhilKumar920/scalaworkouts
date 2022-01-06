@@ -1,4 +1,4 @@
-package hackerearth
+package hackerearth_01
 
 object life_universe extends App {
   var input =scala.io.StdIn.readLine()

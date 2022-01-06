@@ -1,4 +1,4 @@
-package hackerearth
+package hackerearth_01
 
 import scala.io.StdIn.{readInt, readLine}
 

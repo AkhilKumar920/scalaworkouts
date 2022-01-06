@@ -1,4 +1,4 @@
-package hackerearth
+package hackerearth_01
 
 object count_divisors extends App {
   val input=scala.io.StdIn.readLine().split(" ")

@@ -1,4 +1,4 @@
-package hackerearth
+package hackerearth_01
 
 object split_houses extends App {
   val t = scala.io.StdIn.readInt()

@@ -1,4 +1,4 @@
-package hackerearth
+package hackerearth_01
 
 object profile_picture extends App {
   val l=scala.io.StdIn.readInt()

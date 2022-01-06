@@ -1,4 +1,4 @@
-package hackerearth
+package hackerearth_01
 
 object factorial extends App {
   val n=scala.io.StdIn.readInt()

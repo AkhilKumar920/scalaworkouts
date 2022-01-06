@@ -1,4 +1,4 @@
-package hackerearth
+package hackerearth_01
 
 object cost_of_balloons extends App {
   val t=scala.io.StdIn.readInt()

@@ -1,4 +1,4 @@
-package hackerearth
+package hackerearth_01
 
 object divisible extends App {
   val seed=scala.io.StdIn.readInt()
